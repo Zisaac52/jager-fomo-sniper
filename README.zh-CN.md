@@ -1,3 +1,5 @@
+[English Version](README.md)
+
 # Jager FOMO Hunt - 自动化狙击机器人
 
 ![GitHub top language](https://img.shields.io/github/languages/top/YourUsername/YourRepoName?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/YourRepoName?style=flat-square)
