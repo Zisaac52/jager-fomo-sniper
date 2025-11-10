@@ -52,7 +52,7 @@
 sudo apt update
 sudo apt install git -y
 
-# 克隆您的仓库 (请替换为您的仓库URL)
+# 克隆仓库
 git clone https://github.com/Zisaac52/jager-fomo-sniper
 
 # 进入项目目录
